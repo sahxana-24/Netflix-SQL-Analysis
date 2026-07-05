@@ -1,0 +1,47 @@
+# Netflix SQL Analysis Project
+
+## Overview
+This project is a SQL-based analysis of a Netflix-style dataset using MySQL Workbench. The goal is to analyze content distribution, ratings, countries, and release trends.
+
+## Dataset
+- Source: Generated Netflix dataset
+- Total Records: 1000
+- Columns: 12
+
+## Objective
+To perform data analysis using SQL and extract meaningful business insights from Netflix content data.
+
+## Tools Used
+- MySQL Workbench
+- SQL
+- GitHub
+
+## SQL Concepts Used
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- CASE WHEN
+- JOINS
+- Subqueries
+- CTE
+- Window Functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD)
+- Views
+- Indexes
+
+## Key Analysis Performed
+- Movies vs TV Shows distribution
+- Top countries with most content
+- Most common ratings
+- Release year trends
+- Latest and oldest titles
+- Ranking using window functions
+
+## Files in Repository
+- Netflix_SQL_Project.sql → All SQL queries
+- netflix_titles_generated.csv → Dataset
+- README.md → Project documentation
+
+## Conclusion
+This project demonstrates SQL skills used in real-world data analysis including filtering, aggregation, joins, and window functions.
