@@ -1,0 +1,36 @@
+# Netflix SQL Analysis
+
+## Project Overview
+This project analyzes a Netflix-style dataset using MySQL Workbench. The goal is to explore the data and answer business questions using SQL.
+
+## Dataset
+- Dataset: Netflix Titles
+- Total Records: 1000
+- Database: MySQL
+
+## SQL Concepts Used
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- Aggregate Functions
+- CASE WHEN
+- JOINS
+- Subqueries
+- CTE
+- Window Functions
+- Views
+- Indexes
+
+## Tools Used
+- MySQL Workbench
+- SQL
+- GitHub
+
+## Files
+- Netflix SQL Project.sql
+- netflix_titles_generated.csv
+
+## Author
+Sahana Pasupathy
