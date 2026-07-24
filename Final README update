@@ -1,47 +1,69 @@
-# Netflix SQL Analysis Project
+Netflix SQL Analysis Project
 
-## Overview
-This project is a SQL-based analysis of a Netflix-style dataset using MySQL Workbench. The goal is to analyze content distribution, ratings, countries, and release trends.
+Project Overview
 
-## Dataset
-- Source: Generated Netflix dataset
-- Total Records: 1000
-- Columns: 12
+This project focuses on analyzing a Netflix-style dataset using MySQL Workbench to gain valuable business insights through SQL. The analysis explores content distribution, ratings, countries, release trends, and other key metrics by applying SQL concepts commonly used in real-world data analytics.
 
-## Objective
-To perform data analysis using SQL and extract meaningful business insights from Netflix content data.
+Business Objective
 
-## Tools Used
-- MySQL Workbench
-- SQL
-- GitHub
+The objective of this project is to analyze Netflix content data and answer business-related questions that help understand content availability, popularity, geographical distribution, and release patterns using SQL.
 
-## SQL Concepts Used
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- HAVING
-- CASE WHEN
-- JOINS
-- Subqueries
-- CTE
-- Window Functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD)
-- Views
-- Indexes
+Dataset Information
 
-## Key Analysis Performed
-- Movies vs TV Shows distribution
-- Top countries with most content
-- Most common ratings
-- Release year trends
-- Latest and oldest titles
-- Ranking using window functions
+* Dataset: Generated Netflix Dataset
+* Total Records: 1,000
+* Total Columns: 12
 
-## Files in Repository
-- Netflix_SQL_Project.sql → All SQL queries
-- netflix_titles_generated.csv → Dataset
-- README.md → Project documentation
+Tools and Technologies
 
-## Conclusion
-This project demonstrates SQL skills used in real-world data analysis including filtering, aggregation, joins, and window functions.
+* MySQL Workbench
+* SQL
+* GitHub
+
+SQL Concepts Demonstrated
+
+* SELECT
+* WHERE
+* ORDER BY
+* GROUP BY
+* HAVING
+* CASE WHEN
+* Aggregate Functions
+* JOINS
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD)
+* Views
+* Indexes
+
+Business Analysis Performed
+
+* Compared the distribution of Movies and TV Shows.
+* Identified countries producing the highest amount of content.
+* Analyzed the most common content ratings.
+* Examined content release trends across different years.
+* Identified the newest and oldest titles in the dataset.
+* Ranked content using SQL window functions.
+* Performed aggregations and filtering to answer business questions.
+* Generated insights using advanced SQL queries.
+
+Skills Demonstrated
+
+* SQL Query Writing
+* Data Filtering
+* Data Aggregation
+* Data Transformation
+* Window Functions
+* Business Analysis
+* Problem Solving
+* Relational Database Management
+
+Project Files
+
+* Netflix_SQL_Project.sql
+* netflix_titles_generated.csv
+* README.md
+
+Conclusion
+
+This project demonstrates practical SQL skills by solving real-world business problems using structured queries. It showcases the ability to retrieve, transform, and analyze data efficiently while applying industry-standard SQL techniques used in data analytics.
